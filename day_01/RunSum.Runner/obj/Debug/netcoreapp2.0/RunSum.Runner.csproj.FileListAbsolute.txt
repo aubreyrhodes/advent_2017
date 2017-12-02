@@ -1,0 +1,12 @@
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/bin/Debug/netcoreapp2.0/RunSum.Runner.deps.json
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/bin/Debug/netcoreapp2.0/RunSum.Runner.runtimeconfig.json
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/bin/Debug/netcoreapp2.0/RunSum.Runner.runtimeconfig.dev.json
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/bin/Debug/netcoreapp2.0/RunSum.Runner.dll
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/bin/Debug/netcoreapp2.0/RunSum.Runner.pdb
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/obj/Debug/netcoreapp2.0/RunSum.Runner.csproj.CoreCompileInputs.cache
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/obj/Debug/netcoreapp2.0/RunSum.Runner.AssemblyInfoInputs.cache
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/obj/Debug/netcoreapp2.0/RunSum.Runner.AssemblyInfo.cs
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/obj/Debug/netcoreapp2.0/RunSum.Runner.dll
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/obj/Debug/netcoreapp2.0/RunSum.Runner.pdb
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/bin/Debug/netcoreapp2.0/RunSum.dll
+/Users/arhodes/Code/advent_2017/day_01/RunSum.Runner/bin/Debug/netcoreapp2.0/RunSum.pdb

@@ -1,0 +1,8 @@
+/Users/arhodes/Code/advent_2017/day_01/RunSum/bin/Debug/netstandard2.0/RunSum.deps.json
+/Users/arhodes/Code/advent_2017/day_01/RunSum/bin/Debug/netstandard2.0/RunSum.dll
+/Users/arhodes/Code/advent_2017/day_01/RunSum/bin/Debug/netstandard2.0/RunSum.pdb
+/Users/arhodes/Code/advent_2017/day_01/RunSum/obj/Debug/netstandard2.0/RunSum.csproj.CoreCompileInputs.cache
+/Users/arhodes/Code/advent_2017/day_01/RunSum/obj/Debug/netstandard2.0/RunSum.AssemblyInfoInputs.cache
+/Users/arhodes/Code/advent_2017/day_01/RunSum/obj/Debug/netstandard2.0/RunSum.AssemblyInfo.cs
+/Users/arhodes/Code/advent_2017/day_01/RunSum/obj/Debug/netstandard2.0/RunSum.dll
+/Users/arhodes/Code/advent_2017/day_01/RunSum/obj/Debug/netstandard2.0/RunSum.pdb

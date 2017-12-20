@@ -8,6 +8,7 @@ namespace Password.Runner
         {
             var input = System.IO.File.ReadAllText(@"input.txt");
             var sum = 0;
+            var v2Sum = 0;
             var passwords = input.Split('\n');
             var checker = new Checker();
 
@@ -16,9 +17,14 @@ namespace Password.Runner
                 if(checker.IsValid(password) && password != "") {
                     sum++;
                 }
+
+                if(checker.IsValidV2(password) && password != ""){
+                    v2Sum++;
+                }
             }
 
             Console.WriteLine(sum);
+            Console.WriteLine(v2Sum);
         }
     }
 }

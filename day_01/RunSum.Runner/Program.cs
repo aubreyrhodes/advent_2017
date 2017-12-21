@@ -11,6 +11,8 @@ namespace RunSum.Runner
             text = text.Replace("\n", "");
             var sum = service.GetSum(text);
             Console.WriteLine(sum);
+            var sumV2 = service.GetSumV2(text);
+            Console.WriteLine(sumV2);
         }
     }
 }

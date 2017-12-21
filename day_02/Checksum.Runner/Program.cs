@@ -10,6 +10,8 @@ namespace Checksum.Runner
             var runner = new ChecksumService();
             var sum = runner.GetSum(input);
             Console.WriteLine(sum);
+            var sum2 = runner.GetSumV2(input);
+            Console.WriteLine(sum2);
         }
     }
 }

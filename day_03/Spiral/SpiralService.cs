@@ -6,6 +6,11 @@ namespace Spiral
     {
         public Point GetPosition(int cell)
         {
+            if (cell == 1)
+            {
+                return new Point(0, 0);
+            }
+
             var x = 1;
             var y = 0;
             var current_cell = 2;
